@@ -1,7 +1,7 @@
 # Reddit-Post-Comments-Analysis
 
 This repository consist of the comments analysis of reddit [post](https://www.reddit.com/r/AskALiberal/comments/vc67on/do_you_think_black_politics_are_treated_as/) .
-The purpose of this repo is to learn about the various text analysis
+The purpose of this repo is to learn about the various techniques of text analysis
 
 **References** 
   - Reddit scrapping : https://praw.readthedocs.io/en/stable/index.html
